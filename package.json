@@ -1,0 +1,18 @@
+{
+  "name": "weather-plugin",
+  "version": "0.0.1",
+  "description": "\"weather plugin\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.12301e.com:tg/weather-plugin.git"
+  },
+  "author": "yanlp",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "2.6.5"
+  }
+}
